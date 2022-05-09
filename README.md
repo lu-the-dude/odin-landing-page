@@ -7,3 +7,5 @@ https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css
 
 Color and font style requirements:
 https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png
+
+Photo credit to Sherry Wright (@bobble114) from Unsplash
